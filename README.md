@@ -1,4 +1,5 @@
-# new-repos
-test repos
-*note end*
-##good morning coding
+# New-repos
+Test repos
+*Note end*
+## good morning coding
+_Coding is good practice_
